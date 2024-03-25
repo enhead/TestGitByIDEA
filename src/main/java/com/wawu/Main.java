@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Hello git");
         System.out.println("Hello git");
         System.out.println("测试下通过IDEA直接push项目");
+        System.out.println("测试通过远程库直接更改项目代码");
     }
 }
