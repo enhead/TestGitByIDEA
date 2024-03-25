@@ -9,8 +9,8 @@ public class Main {
         System.out.println("当前行被new_branch分支修改");
         System.out.println("解决master和new_branch分支的冲突问题");
         System.out.println("Hello git");
-
         System.out.println("Hello git");
         System.out.println("Hello git");
+        System.out.println("测试下通过IDEA直接push项目");
     }
 }
